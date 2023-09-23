@@ -145,7 +145,7 @@ def view_cards():
                 cvv.configure(state="readonly")
         else:
             general_label.configure(text="Nothing is selected to search.")
-    search_button = Button(choices_frame, text = 'Search', command=get_card)
+    search_button = Button(choices_frame, text = 'Display', command=get_card)
     search_button.grid(row=1, column=1)
 
     #creating card details frame
