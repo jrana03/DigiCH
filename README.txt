@@ -1,2 +1,3 @@
+Digital Card Holder (DigiCH)
 - Feel free to enjoy this simple app by downloading the compressed standalone folder
 - Was created using Python and SQLite3!
